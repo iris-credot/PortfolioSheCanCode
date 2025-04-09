@@ -13,7 +13,7 @@
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./images/picc.jpg)  
+![Portfolio Screenshot](./images/mine.PNG)  
 *(Replace with a real screenshot of your homepage)*
 
 ---
@@ -34,3 +34,5 @@
 1. **Clone the repository**  
 ```bash
 git clone https://github.com/your-username/your-repo.git
+
+
